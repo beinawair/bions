@@ -44,9 +44,9 @@ function Youtube() {
                         }
                         {data.iframe}
                     </ul>
-                        <Button className='btns' buttonStyle='btn--secondary' buttonSize='btn--large'>
-                                More Videos
-                        </Button>
+                    <a className='btn btn--secondary' href="https://www.youtube.com/c/BINCANGONLINEINSPIRATIF" target='_blank' rel="noopener noreferrer">
+                        MORE VIDEOS
+                    </a>
                 </div>
             </div>
         </div>

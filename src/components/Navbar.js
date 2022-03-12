@@ -58,12 +58,12 @@ function Navbar() {
               </Link>
             </li>
             <li>
-                <a className='btn btn--outline nav-links-mobile' href="https://github.com" target='_blank' rel="noopener noreferrer">
+                <a className='btn btn--outline nav-links-mobile' href="https://www.youtube.com/c/BINCANGONLINEINSPIRATIF" target='_blank' rel="noopener noreferrer">
                   OUR CHANNEL
                 </a>
             </li>
           </ul>
-          {button && <a className='btn btn--outline' href="https://github.com" target='_blank' rel="noopener noreferrer">OUR CHANNEL</a>}
+          {button && <a className='btn btn--outline' href="https://www.youtube.com/c/BINCANGONLINEINSPIRATIF" target='_blank' rel="noopener noreferrer">OUR CHANNEL</a>}
         </div>
       </nav>
     </>

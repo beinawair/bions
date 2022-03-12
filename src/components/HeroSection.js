@@ -10,9 +10,9 @@ function HeroSection() {
         <h1>Bincang Online Inspiratif</h1>
         <p>Learn by sharing</p>
         <div className='hero-btns'>
-            <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
-                Visit Our Channel
-            </Button>
+            <a className='btn btn--outline' href="https://www.youtube.com/c/BINCANGONLINEINSPIRATIF" target='_blank' rel="noopener noreferrer">
+              OUR CHANNEL
+            </a>
         </div>
     </div>
   )

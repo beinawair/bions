@@ -12,6 +12,7 @@
     outline: none;
     border: none;
     cursor: pointer;
+    box-sizing: border-box;
 }
 
 .btn--primary {
@@ -23,7 +24,7 @@
 .btn--secondary {
     background-color: transparent;
     color: var(--dark);
-    padding: 8px 20px;
+    padding: .5em 1em;
     border: 1px solid var(--dark);
     transition: var(--transition);
 }
@@ -31,7 +32,7 @@
 .btn--outline {
     background-color: transparent;
     color: var(--primarycolor);
-    padding: 8px 20px;
+    padding: .5em 1em;
     border: 1px solid var(--primarycolor);
     transition: var(--transition);
 }
@@ -42,12 +43,12 @@
 }
 
 .btn--medium {
-    padding: 8px 20px;
+    padding: 1em;
     font-size: 20px;
 }
 
 .btn--large {
-    padding: 12px 26px;
+    padding: 1em;
     font-size: 20px;
 }
 
