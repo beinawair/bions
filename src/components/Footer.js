@@ -29,7 +29,7 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>About Us</h2>
-            <img src='/img/bions-logo-light.png' alt='logo Bions' />
+            <img src={process.env.PUBLIC_URL + '/img/bions-logo-light.png'} alt='logo Bions' />
             <p>We love to learn by sharing</p>
           </div>
           <div class='footer-link-items'>
