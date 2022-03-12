@@ -3,7 +3,6 @@ import '../../../App'
 import HeroSection from '../../HeroSection'
 import Youtube from '../../Youtube'
 import About from '../../About'
-import Footer from '../../Footer'
 
 function Home() {
     return (
@@ -11,7 +10,6 @@ function Home() {
             <HeroSection />
             <Youtube/>
             <About />
-            <Footer />
         </>
     )
 }
