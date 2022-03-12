@@ -2,7 +2,7 @@
   "name": "bions-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://beinawair.github.io",
+  "homepage": "https://beinawair.github.io/bions",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
