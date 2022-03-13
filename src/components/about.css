@@ -19,7 +19,7 @@
 }
 
 .about-wrapper {
-    width: 100%;
+    width: 80%;
     max-width: 1200px;
     display: flex;
     flex-direction: column;
@@ -120,6 +120,6 @@ img {
 
 @media screen and (min-width: 1300px) {
     .about-details span::before {
-        left: 8.5em;
+        left: 11.8em;
     }
 }
