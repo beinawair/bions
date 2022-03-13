@@ -5,7 +5,7 @@ import './heroSection.css'
 function HeroSection() {
   return (
     <div className='hero-container'>
-        <video src='https://youtu.be/jzwiTEDUBVI' autoPlay loop muted />
+        <video src={process.env.PUBLIC_URL + '/videos/bions-background.mp4'} autoPlay loop muted />
         <h1>Bincang Online Inspiratif</h1>
         <p>Learn by sharing</p>
         <div className='hero-btns'>
