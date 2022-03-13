@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "fc3c728eabd4f0232257",
+    "revision": "b2d8c4706cf7d11abee0",
     "url": "/bions/static/css/main.6d753439.chunk.css"
   },
   {
-    "revision": "fc3c728eabd4f0232257",
-    "url": "/bions/static/js/main.fc3c728e.chunk.js"
+    "revision": "b2d8c4706cf7d11abee0",
+    "url": "/bions/static/js/main.b2d8c470.chunk.js"
   },
   {
     "revision": "94e2805062829d073b6d",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/bions/static/js/runtime~main.1dad266c.js"
   },
   {
-    "revision": "2c61dc51491827970e1cf0aa5082c983",
+    "revision": "c24156d0dbd2034bd467e07099b8c258",
     "url": "/bions/index.html"
   }
 ];

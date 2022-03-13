@@ -1,13 +1,13 @@
 {
   "main.css": "/bions/static/css/main.6d753439.chunk.css",
-  "main.js": "/bions/static/js/main.fc3c728e.chunk.js",
-  "main.js.map": "/bions/static/js/main.fc3c728e.chunk.js.map",
+  "main.js": "/bions/static/js/main.b2d8c470.chunk.js",
+  "main.js.map": "/bions/static/js/main.b2d8c470.chunk.js.map",
   "static/js/1.94e28050.chunk.js": "/bions/static/js/1.94e28050.chunk.js",
   "static/js/1.94e28050.chunk.js.map": "/bions/static/js/1.94e28050.chunk.js.map",
   "runtime~main.js": "/bions/static/js/runtime~main.1dad266c.js",
   "runtime~main.js.map": "/bions/static/js/runtime~main.1dad266c.js.map",
   "static/css/main.6d753439.chunk.css.map": "/bions/static/css/main.6d753439.chunk.css.map",
   "index.html": "/bions/index.html",
-  "precache-manifest.21d4564d0897271acf5dfdd5298913de.js": "/bions/precache-manifest.21d4564d0897271acf5dfdd5298913de.js",
+  "precache-manifest.f74d2b26fa02d30e3f45bdaaed50c1bb.js": "/bions/precache-manifest.f74d2b26fa02d30e3f45bdaaed50c1bb.js",
   "service-worker.js": "/bions/service-worker.js"
 }
