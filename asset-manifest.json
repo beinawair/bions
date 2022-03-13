@@ -1,13 +1,13 @@
 {
   "main.css": "/bions/static/css/main.c30bb71c.chunk.css",
-  "main.js": "/bions/static/js/main.a2c262d2.chunk.js",
-  "main.js.map": "/bions/static/js/main.a2c262d2.chunk.js.map",
-  "static/js/1.bcd96a75.chunk.js": "/bions/static/js/1.bcd96a75.chunk.js",
-  "static/js/1.bcd96a75.chunk.js.map": "/bions/static/js/1.bcd96a75.chunk.js.map",
+  "main.js": "/bions/static/js/main.18d01d96.chunk.js",
+  "main.js.map": "/bions/static/js/main.18d01d96.chunk.js.map",
+  "static/js/1.45ffd9ed.chunk.js": "/bions/static/js/1.45ffd9ed.chunk.js",
+  "static/js/1.45ffd9ed.chunk.js.map": "/bions/static/js/1.45ffd9ed.chunk.js.map",
   "runtime~main.js": "/bions/static/js/runtime~main.1dad266c.js",
   "runtime~main.js.map": "/bions/static/js/runtime~main.1dad266c.js.map",
   "static/css/main.c30bb71c.chunk.css.map": "/bions/static/css/main.c30bb71c.chunk.css.map",
   "index.html": "/bions/index.html",
-  "precache-manifest.7c7f397a34c7b3297428d769b0a64e27.js": "/bions/precache-manifest.7c7f397a34c7b3297428d769b0a64e27.js",
+  "precache-manifest.fd52ee4d4f3959ba2ee5d09560100fd7.js": "/bions/precache-manifest.fd52ee4d4f3959ba2ee5d09560100fd7.js",
   "service-worker.js": "/bions/service-worker.js"
 }
